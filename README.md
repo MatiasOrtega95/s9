@@ -1,6 +1,3 @@
-# Welcome to GitHub Desktop!
+# TODO FIT
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Deskptop.
-Matías Ortega Caviedes
+Proyecto grupo N.° 19 para "el taller de desarrollo web y móvil". El objetivo de la propuesta es desarrollar una aplicación para realizar entrenamiento físico de forma integrada.
